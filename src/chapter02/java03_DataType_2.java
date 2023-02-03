@@ -22,7 +22,7 @@ public class java03_DataType_2 {
         //  1、整数类型：byte、short、int、long
         //  2、浮点类型：float、double
 
-        // 二、应用数据类型：1、类，String。2、接口，3、数组，4、枚举，5、特殊类型值：null
+        // 二、引用数据类型：1、类，String。2、接口，3、数组，4、枚举，5、特殊类型值：null
 
         // TODO 数值类型转换
         String name = "zhangsan";
